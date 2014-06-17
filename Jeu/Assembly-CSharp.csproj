@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{60FE66A6-FA37-5AB8-6953-39C058AA80A7}</ProjectGuid>
+	<ProjectGuid>{3CB6B2CC-F1FF-B5EA-7CE9-8A0A9B744484}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,17 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Jeu de Gestion\Scripts\ChargerEnigmes.cs" />
-     <Compile Include="Assets\Jeu de Gestion\Scripts\ChargerPersos.cs" />
-     <Compile Include="Assets\Jeu de Gestion\Scripts\ChargerPostes.cs" />
-     <Compile Include="Assets\Jeu de Gestion\Scripts\ChargerProjets.cs" />
-     <Compile Include="Assets\Jeu de Gestion\Scripts\Enigme.cs" />
-     <Compile Include="Assets\Jeu de Gestion\Scripts\MainGame.cs" />
-     <Compile Include="Assets\Jeu de Gestion\Scripts\Perso.cs" />
-     <Compile Include="Assets\Jeu de Gestion\Scripts\Poste.cs" />
-     <Compile Include="Assets\Jeu de Gestion\Scripts\Projet.cs" />
-     <Compile Include="Assets\Jeu de Gestion\Scripts\SelecPersos.cs" />
-     <Compile Include="Assets\Jeu de Gestion\Scripts\SelecProjets.cs" />
+     <Compile Include="Assets\ChargerPlaces.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipItems.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipRandomItem.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\UICursor.cs" />
@@ -175,6 +165,21 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UITiledSprite.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
+     <Compile Include="Assets\Scripts\Gestion\ChargerEnigmes.cs" />
+     <Compile Include="Assets\Scripts\Gestion\ChargerLabelMenu.cs" />
+     <Compile Include="Assets\Scripts\Gestion\ChargerPersos.cs" />
+     <Compile Include="Assets\Scripts\Gestion\ChargerPostes.cs" />
+     <Compile Include="Assets\Scripts\Gestion\ChargerProjets.cs" />
+     <Compile Include="Assets\Scripts\Gestion\ClickPerso.cs" />
+     <Compile Include="Assets\Scripts\Gestion\ClickProjet.cs" />
+     <Compile Include="Assets\Scripts\Gestion\Enigme.cs" />
+     <Compile Include="Assets\Scripts\Gestion\MainGame.cs" />
+     <Compile Include="Assets\Scripts\Gestion\Perso.cs" />
+     <Compile Include="Assets\Scripts\Gestion\Poste.cs" />
+     <Compile Include="Assets\Scripts\Gestion\PostesEnd.cs" />
+     <Compile Include="Assets\Scripts\Gestion\Projet.cs" />
+     <Compile Include="Assets\Scripts\Gestion\SelecPersos.cs" />
+     <Compile Include="Assets\Scripts\Gestion\SelecProjets.cs" />
      <Compile Include="Assets\Scripts\HideMenu.cs" />
      <Compile Include="Assets\Scripts\Menu.cs" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Depth Cutout.shader" />
@@ -187,7 +192,7 @@
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (AlphaClip) .shader" />
      <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (AlphaClip).shader" />
-     <None Include="Assets\Jeu de Gestion\resources\poste.xml" />
+     <None Include="Assets\Resources\FichiersSources\poste.xml" />
      <None Include="Assets\Resources\Productions3D\Personnage\Materials\Double side.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (AlphaClip).shader" />
      <None Include="Assets\NGUI\Resources\Shaders\GUI - Text Shader (AlphaClip).shader" />
@@ -202,15 +207,15 @@
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
      <None Include="Assets\NGUI\Examples\Other\English.txt" />
      <None Include="Assets\NGUI\Examples\Other\French.txt" />
-     <None Include="Assets\Jeu de Gestion\resources\Enigme.xml" />
+     <None Include="Assets\Resources\FichiersSources\Enigme.xml" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed).shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Additive Colored.shader" />
-     <None Include="Assets\Jeu de Gestion\resources\projet.xml" />
+     <None Include="Assets\Resources\FichiersSources\projet.xml" />
      <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
      <None Include="Assets\NGUI\Examples\Shaders\Refractive.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Depth.shader" />
      <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Normal.txt" />
-     <None Include="Assets\Jeu de Gestion\resources\perso.xml" />
+     <None Include="Assets\Resources\FichiersSources\perso.xml" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
