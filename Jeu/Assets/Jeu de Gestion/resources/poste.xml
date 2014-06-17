@@ -1,0 +1,26 @@
+<postes>
+	<poste>
+		<name>Poste 1</name>
+		<imagePath>./photo.jpg</imagePath>
+		<desc>As beinvestigatin to uhich works best.</desc>
+		<numero>1</numero>
+	</poste>
+	<poste>
+		<name>Poste 2</name>
+		<imagePath>./photo.jpg</imagePath>
+		<desc>As beinvestigatin to uhich works best.</desc>
+		<numero>2</numero>
+	</poste>
+	<poste>
+		<name>Poste 3</name>
+		<imagePath>./photo.jpg</imagePath>
+		<desc>As beinvestigatin to uhich works best.</desc>
+		<numero>3</numero>
+	</poste>
+	<poste>
+		<name>Poste 4</name>
+		<imagePath>./photo.jpg</imagePath>
+		<desc>As beinvestigatin to uhich works best.</desc>
+		<numero>4</numero>
+	</poste>
+</postes>
