@@ -1,0 +1,112 @@
+<persos>
+	<perso>
+		<name>Louis</name>
+		<imagePath>./photo.jpg</imagePath>
+		<cv>Après avoir passer mon BAC STI électronique, j'ai postulé en IUT imagerie numérique pour pouvoir apprendre à créer des objets 3D. J'ai déjà un peu d'experience dans le domaine car j'ai suivis des tutos sur internet et des magazine de 3D. Biensur j'ai aussi quelques compétence en programmation grâce à ma formation STI.</cv>
+		<xp>0</xp>
+		<levelXp>1</levelXp>
+		<xp1>38</xp1>
+		<xp2>32</xp2>
+		<xp3>45</xp3>
+		<xp4>58</xp4>
+	</perso>
+	<perso>
+		<name>Paul</name>
+		<imagePath>./photo.jpg</imagePath>
+		<cv>Je sors d'un BAC S si, la programation c'est tout ma vie, j'ai commencé à l'âge de 13 ans sur ma calculatrice TI82, j'ai créer des pongs et des resolution automatique de Primitive.</cv>
+		<xp>0</xp>
+		<levelXp>1</levelXp>
+		<xp1>54</xp1>
+		<xp2>62</xp2>
+		<xp3>18</xp3>
+		<xp4>11</xp4>
+	</perso>
+	<perso>
+		<name>Thomas</name>
+		<imagePath>./photo.jpg</imagePath>
+		<cv>Je viens d'une section ES, mais je suis beaucoup interessé par la 3D, depuis quelques années je dessine beaucoup. J'ai une très grande animation. L'IUT du Puy pourrait me permettre de m'ouvrir un autre horizon.</cv>
+		<xp>0</xp>
+		<levelXp>1</levelXp>
+		<xp1>5</xp1>
+		<xp2>12</xp2>
+		<xp3>64</xp3>
+		<xp4>14</xp4>
+	</perso>
+	<perso>
+		<name>Julie</name>
+		<imagePath>./photo.jpg</imagePath>
+		<cv>Après l'obtention de on bac S si, j'ai voulu postulé en Archi ou en DUT informatique. J'aime beaucoup la programmation, la recherche de solution par un algorithm fraichement créé. Je connais brievement quelque language comme le C, C++ et python</cv>
+		<xp>0</xp>
+		<levelXp>1</levelXp>
+		<xp1>63</xp1>
+		<xp2>52</xp2>
+		<xp3>11</xp3>
+		<xp4>8</xp4>
+	</perso>
+	<perso>
+		<name>Alexandre</name>
+		<imagePath>./photo.jpg</imagePath>
+		<cv>Avec mon Bac S option maths, je suis très doué en calcul, pour moi la logique n'a plus de secret. Mais je ne veux pas m'arrêter ici, Je veux apprendre et comprendre ce qu'est la programmation.</cv>
+		<xp>49</xp>
+		<levelXp>1</levelXp>
+		<xp1>20</xp1>
+		<xp2>71</xp2>
+		<xp3>9</xp3>
+		<xp4>4</xp4>
+	</perso>
+	<perso>
+		<name></name>
+		<imagePath>./photo.jpg</imagePath>
+		<cv>./cvPaul</cv>
+		<xp>0</xp>
+		<levelXp>1</levelXp>
+		<xp1>45</xp1>
+		<xp2>453</xp2>
+		<xp3>453</xp3>
+		<xp4>776</xp4>
+	</perso>
+	<perso>
+		<name>bite 7</name>
+		<imagePath>./photo.jpg</imagePath>
+		<cv>./cvPaul</cv>
+		<xp>49</xp>
+		<levelXp>1</levelXp>
+		<xp1>45</xp1>
+		<xp2>453</xp2>
+		<xp3>453</xp3>
+		<xp4>786</xp4>
+	</perso>
+	<perso>
+		<name>testantine 8</name>
+		<imagePath>./photo.jpg</imagePath>
+		<cv>./cvPaul</cv>
+		<xp>49</xp>
+		<levelXp>1</levelXp>
+		<xp1>45</xp1>
+		<xp2>453</xp2>
+		<xp3>453</xp3>
+		<xp4>776</xp4>
+	</perso>
+	<perso>
+		<name>Paul 9</name>
+		<imagePath>./photo.jpg</imagePath>
+		<cv>./cvPaul</cv>
+		<xp>49</xp>
+		<levelXp>1</levelXp>
+		<xp1>45</xp1>
+		<xp2>453</xp2>
+		<xp3>453</xp3>
+		<xp4>786</xp4>
+	</perso>
+	<perso>
+		<name>Paul 10</name>
+		<imagePath>./photo.jpg</imagePath>
+		<cv>./cvPaul</cv>
+		<xp>49</xp>
+		<levelXp>1</levelXp>
+		<xp1>45</xp1>
+		<xp2>453</xp2>
+		<xp3>453</xp3>
+		<xp4>786</xp4>
+	</perso>
+</persos>

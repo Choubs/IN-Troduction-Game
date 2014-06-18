@@ -1,20 +1,20 @@
 <projets>
 	<projet>
 		<typeProjet>1</typeProjet>
-		<name>Film de merde11</name>
+		<name>Armaggedon</name>
 		<imagePath>./photo.jpg</imagePath>
-		<description>As beinvestigatin to uhich works best.</description>
+		<description>Film numero 1</description>
 		<temps>100</temps>
 		<xpPoste1>25</xpPoste1>
 		<xpPoste2>42</xpPoste2>
-		<xpPoste3>200</xpPoste3>
+		<xpPoste3>100</xpPoste3>
 		<xpPoste4>100</xpPoste4>
 	</projet>
 	<projet>
 		<typeProjet>2</typeProjet>
-		<name>Film de merde12</name>
+		<name>GTA</name>
 		<imagePath>./photo.jpg</imagePath>
-		<description>As beinvestigatin to uhich works best.</description>
+		<description>Jeu numero 1</description>
 		<temps>100</temps>
 		<xpPoste1>25</xpPoste1>
 		<xpPoste2>42</xpPoste2>
@@ -23,9 +23,9 @@
 	</projet>
 	<projet>
 		<typeProjet>3</typeProjet>
-		<name>Film de merde13</name>
+		<name>Photoshop</name>
 		<imagePath>./photo.jpg</imagePath>
-		<description>As beinvestigatin to uhich works best.</description>
+		<description>Soft numero 1</description>
 		<temps>100</temps>
 		<xpPoste1>25</xpPoste1>
 		<xpPoste2>42</xpPoste2>
@@ -34,20 +34,20 @@
 	</projet>
 	<projet>
 		<typeProjet>1</typeProjet>
-		<name>Film de merde21</name>
+		<name>Die Hard</name>
 		<imagePath>./photo.jpg</imagePath>
-		<description>As beinvestigatin to uhich works best.</description>
+		<description>Film 2</description>
 		<temps>100</temps>
 		<xpPoste1>25</xpPoste1>
 		<xpPoste2>42</xpPoste2>
-		<xpPoste3>542</xpPoste3>
-		<xpPoste4>425</xpPoste4>
+		<xpPoste3>100</xpPoste3>
+		<xpPoste4>100</xpPoste4>
 	</projet>
 	<projet>
 		<typeProjet>2</typeProjet>
-		<name>Film de merde22</name>
+		<name>Mario bros.</name>
 		<imagePath>./photo.jpg</imagePath>
-		<description>As beinvestigatin to uhich works best.</description>
+		<description>Jeu 2</description>
 		<temps>100</temps>
 		<xpPoste1>25</xpPoste1>
 		<xpPoste2>42</xpPoste2>
@@ -56,9 +56,9 @@
 	</projet>
 	<projet>
 		<typeProjet>3</typeProjet>
-		<name>Film de merde23</name>
+		<name>Unity</name>
 		<imagePath>./photo.jpg</imagePath>
-		<description>As beinvestigatin to uhich works best.</description>
+		<description>Soft 2</description>
 		<temps>100</temps>
 		<xpPoste1>25</xpPoste1>
 		<xpPoste2>42</xpPoste2>

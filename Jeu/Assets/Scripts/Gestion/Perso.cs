@@ -13,7 +13,7 @@ public class Perso {
 	public int xp2;
 	public int xp3;
 	public int xp4;
-	public int poste;
+	public int poste = 1;
 	
 
 
