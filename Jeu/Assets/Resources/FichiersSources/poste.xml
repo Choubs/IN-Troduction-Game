@@ -1,26 +1,26 @@
 <postes>
 	<poste>
-		<name>Poste 1</name>
+		<name>Dévloppeurs</name>
 		<imagePath>./photo.jpg</imagePath>
-		<desc>As beinvestigatin to uhich works best.</desc>
+		<desc>Le développeur est celui qui code, sans code pas de programme, pas de programme.</desc>
 		<numero>1</numero>
 	</poste>
 	<poste>
-		<name>Poste 2</name>
+		<name>Logistique</name>
 		<imagePath>./photo.jpg</imagePath>
-		<desc>As beinvestigatin to uhich works best.</desc>
+		<desc>Pour la logistique, il nous faut des maths, car rien n'est plus logique que les mathématiques.</desc>
 		<numero>2</numero>
 	</poste>
 	<poste>
-		<name>Poste 3</name>
+		<name>Design</name>
 		<imagePath>./photo.jpg</imagePath>
-		<desc>As beinvestigatin to uhich works best.</desc>
+		<desc>Le mot design est vaste, ce poste permet de donner un univers au jeux, films ou même programmes si l'interface utilisateur est un minimum développer.</desc>
 		<numero>3</numero>
 	</poste>
 	<poste>
-		<name>Poste 4</name>
+		<name>Ressources 3D</name>
 		<imagePath>./photo.jpg</imagePath>
-		<desc>As beinvestigatin to uhich works best.</desc>
+		<desc>Il faut toujours des ressources, que ce soit 2D ou 3D. Il faut juste des compétences en visualisation des objets ou personnages que l'on veut créer.</desc>
 		<numero>4</numero>
 	</poste>
 </postes>
