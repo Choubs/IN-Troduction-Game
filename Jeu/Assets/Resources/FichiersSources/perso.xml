@@ -3,12 +3,12 @@
 		<name>Louis</name>
 		<imagePath>./photo.jpg</imagePath>
 		<cv>Après avoir passé mon BAC STI électrotechnique, j'ai postulé en IUT imagerie numérique pour pouvoir apprendre à créer des objets 3D. J'ai déjà un peu d'expériences dans le domaine, car j'ai suivis des tutoriels sur internet et des magazines de 3D. Bien sûr, j'ai aussi quelques compétences en programmation grâce à ma formation STI.</cv>
-		<xp>0</xp>
+		<xp>110</xp>
 		<levelXp>1</levelXp>
-		<xp1>38</xp1>
-		<xp2>32</xp2>
-		<xp3>45</xp3>
-		<xp4>58</xp4>
+		<xp1>80</xp1>
+		<xp2>63</xp2>
+		<xp3>97</xp3>
+		<xp4>123</xp4>
 	</perso>
 	<perso>
 		<name>Paul</name>
@@ -16,10 +16,10 @@
 		<cv>Je sors d'un BAC S Si, la programmation c'est tout ma vie, j'ai commencé à l'âge de 13 ans sur ma calculatrice TI82, j'ai créé un casse brique et des résolutions automatiques de Primitive. Les maths, n’ont plus de secret pour moi.</cv>
 		<xp>0</xp>
 		<levelXp>1</levelXp>
-		<xp1>67</xp1>
-		<xp2>69</xp2>
-		<xp3>18</xp3>
-		<xp4>11</xp4>
+		<xp1>133</xp1>
+		<xp2>122</xp2>
+		<xp3>50</xp3>
+		<xp4>43</xp4>
 	</perso>
 	<perso>
 		<name>Thomas</name>
@@ -27,10 +27,10 @@
 		<cv>Je viens d'une section ES, mais je suis beaucoup intéressé par la 3D, depuis quelques années je dessine beaucoup, j’ai développé mon style de dessin, mais je peux m’adapter à n’importe quelle style graphique. Mon point fort est que j’ai une très grande imagination. L'IUT du Puy pourrait me permettre de m'ouvrir un autre horizon en programmation mais surtout en synthèse d’image.</cv>
 		<xp>0</xp>
 		<levelXp>1</levelXp>
-		<xp1>5</xp1>
-		<xp2>12</xp2>
-		<xp3>64</xp3>
-		<xp4>14</xp4>
+		<xp1>34</xp1>
+		<xp2>56</xp2>
+		<xp3>126</xp3>
+		<xp4>78</xp4>
 	</perso>
 	<perso>
 		<name>Julie</name>
@@ -38,21 +38,21 @@
 		<cv>Après l'obtention de mon bac S Si, j'ai voulu postulé en Archi ou en DUT informatique. J'aime beaucoup la programmation, la recherche de solution par un algorithme fraichement créé. Je connais brièvement quelque language comme le C, C++ et Python.</cv>
 		<xp>0</xp>
 		<levelXp>1</levelXp>
-		<xp1>55</xp1>
-		<xp2>52</xp2>
-		<xp3>11</xp3>
-		<xp4>20</xp4>
+		<xp1>107</xp1>
+		<xp2>102</xp2>
+		<xp3>57</xp3>
+		<xp4>53</xp4>
 	</perso>
 	<perso>
 		<name>Alexandre</name>
 		<imagePath>./photo.jpg</imagePath>
 		<cv>Avec mon Bac S SVT option maths, je suis très doué en calcul et en trigonométrie, la logique c’est un peu ma tasse de thé. Mais je ne veux pas m'arrêter ici, Je veux apprendre et comprendre ce qu'est la programmation, afin de pouvoir créer des programme qui pourrait révolutionner le commun des hommes.</cv>
-		<xp>0</xp>
+		<xp>20</xp>
 		<levelXp>1</levelXp>
-		<xp1>20</xp1>
-		<xp2>71</xp2>
-		<xp3>9</xp3>
-		<xp4>4</xp4>
+		<xp1>70</xp1>
+		<xp2>122</xp2>
+		<xp3>42</xp3>
+		<xp4>32</xp4>
 	</perso>
 	<perso>
 		<name>Raoul</name>
@@ -60,32 +60,32 @@
 		<cv>Avec mon Bac S SVT option maths, je suis très doué en calcul et en trigonométrie, la logique c’est un peu ma tasse de thé. Mais je ne veux pas m'arrêter ici, Je veux apprendre et comprendre ce qu'est la programmation, afin de pouvoir créer des programme qui pourrait révolutionner le commun des hommes.</cv>
 		<xp>0</xp>
 		<levelXp>1</levelXp>
-		<xp1>52</xp1>
-		<xp2>20</xp2>
-		<xp3>31</xp3>
-		<xp4>42</xp4>
+		<xp1>97</xp1>
+		<xp2>117</xp2>
+		<xp3>65</xp3>
+		<xp4>63</xp4>
 	</perso>
 	<perso>
 		<name>Floren</name>
 		<imagePath>./photo.jpg</imagePath>
 		<cv>Après ma première année de BTS électronique, je me suis rendu compte que celui-ci ne me convenais pas, j'ai donc postulé pour l'IUT informatique du Puy-en-Velay. L'électronique m'a permis d'avoir quelque base en programmation, mais sincèrement c'est la 3D et ses interactions qui m'attirent, j'ai donc développé quelques programmes avec de la 3D pendant ma prétendante année pour me préparer à l’année qui arrive.</cv>
-		<xp>0</xp>
+		<xp>400</xp>
 		<levelXp>1</levelXp>
-		<xp1>31</xp1>
-		<xp2>22</xp2>
-		<xp3>45</xp3>
-		<xp4>49</xp4>
+		<xp1>88</xp1>
+		<xp2>66</xp2>
+		<xp3>78</xp3>
+		<xp4>107</xp4>
 	</perso>
 	<perso>
 		<name>Clara</name>
 		<imagePath>./photo.jpg</imagePath>
 		<cv>Juste après mon Bac S Si, pendant mes vacances d’été, je me suis à niveau pour me préparer au mieux à ma première année de DUT informatique. J'ai donc suivi la plus part des tutoriels de Openclassroom en C et C++. Je pense avoir les compétences requise pour toutes programmations.</cv>
-		<xp>0</xp>
+		<xp>140</xp>
 		<levelXp>1</levelXp>
-		<xp1>62</xp1>
-		<xp2>57</xp2>
-		<xp3>7</xp3>
-		<xp4>2</xp4>
+		<xp1>113</xp1>
+		<xp2>90</xp2>
+		<xp3>37</xp3>
+		<xp4>32</xp4>
 	</perso>
 	<perso>
 		<name>Lucas</name>
@@ -93,20 +93,20 @@
 		<cv>Pendant mes années lycée préparant mon Bac Science de l'ingénieur, j'ai créé un petit jeu en 2D avec les connaissances que j'ai pu acquérir grâce aux tutoriels sur internet. J'ai aussi fait des petites créations sous Blender.</cv>
 		<xp>0</xp>
 		<levelXp>1</levelXp>
-		<xp1>75</xp1>
-		<xp2>52</xp2>
-		<xp3>25</xp3>
-		<xp4>31</xp4>
+		<xp1>107</xp1>
+		<xp2>89</xp2>
+		<xp3>118</xp3>
+		<xp4>73</xp4>
 	</perso>
 	<perso>
 		<name>Théo</name>
 		<imagePath>./photo.jpg</imagePath>
-		<cv>Sorti d'un bac Es, je ne savais pas trop quoi faire, après avoir vue des annonces de l'IUT, j'ai décidé d'y postulé. Je n'ai aucune connaissance en programmation et en 3D. Mais je suis motivé à découvrir ce monde qu'est l'informatique.</cv>
-		<xp>0</xp>
+		<cv>Sorti d'un bac Es, je ne savais pas trop quoi faire, après avoir vue des annonces de l'IUT, j'ai décidé d'y postulé. Je n'ai aucune connaissance en programmation et en 3D. Mais je suis motivé à découvrir ce monde qu'est l'informatique. J'ai aussi acquis une grande imagination grâce aux films d'animations</cv>
+		<xp>60</xp>
 		<levelXp>1</levelXp>
-		<xp1>26</xp1>
-		<xp2>22</xp2>
-		<xp3>22</xp3>
-		<xp4>18</xp4>
+		<xp1>39</xp1>
+		<xp2>63</xp2>
+		<xp3>107</xp3>
+		<xp4>47</xp4>
 	</perso>
 </persos>

@@ -1,68 +1,69 @@
 <projets>
 	<projet>
 		<typeProjet>1</typeProjet>
-		<name>Armaggedon</name>
+		<name>Les lunettes incassable</name>
 		<imagePath>./photo.jpg</imagePath>
-		<description>Film numero 1</description>
-		<temps>100</temps>
-		<xpPoste1>25</xpPoste1>
-		<xpPoste2>42</xpPoste2>
-		<xpPoste3>100</xpPoste3>
-		<xpPoste4>100</xpPoste4>
+		<description>Le Puy Opticien vous demande de créer un spot publicitaire pour la promotion de leurs nouvelles montures incassables. Vous allez devoir mettre en scène un homme qui perds ses lunettes, celle-ci rencontrera plusieurs obstacles où elles devront en sortir indemne </description>
+		<temps>300</temps>
+		<xpPoste1>150</xpPoste1>
+		<xpPoste2>100</xpPoste2>
+		<xpPoste3>1300</xpPoste3>
+		<xpPoste4>950</xpPoste4>
 	</projet>
 	<projet>
 		<typeProjet>2</typeProjet>
-		<name>GTA</name>
+		<name>Le nounours gimauve</name>
 		<imagePath>./photo.jpg</imagePath>
-		<description>Jeu numero 1</description>
-		<temps>100</temps>
-		<xpPoste1>25</xpPoste1>
-		<xpPoste2>42</xpPoste2>
-		<xpPoste3>542</xpPoste3>
-		<xpPoste4>425</xpPoste4>
+		<description>La nouvelle entreprise "le bonbon du Velay", vous demande de créer un jeu d'aventure, mettant en scène un nounours à la guimauve, déjouant les plans du crocodile gelatineur haribono ! Vous allez devoir le développer sous Unity en C#</description>
+		<temps>300</temps>
+		<xpPoste1>800</xpPoste1>
+		<xpPoste2>100</xpPoste2>
+		<xpPoste3>1100</xpPoste3>
+		<xpPoste4>950</xpPoste4>
+		
 	</projet>
 	<projet>
 		<typeProjet>3</typeProjet>
-		<name>Photoshop</name>
+		<name>GPS Touristique</name>
 		<imagePath>./photo.jpg</imagePath>
-		<description>Soft numero 1</description>
-		<temps>100</temps>
-		<xpPoste1>25</xpPoste1>
-		<xpPoste2>42</xpPoste2>
-		<xpPoste3>542</xpPoste3>
-		<xpPoste4>425</xpPoste4>
+		<description>Le maire du Puy-en-Velay vous demande de créer une application sur portable guidant les touristes avec un GPS, lorsqu'il arrive devant un monument, un push est émis pour lui donner un maximum d'indications. L'application tournera sous Iphone et Android.</description>
+		<temps>300</temps>
+		<xpPoste1>1200</xpPoste1>
+		<xpPoste2>800</xpPoste2>
+		<xpPoste3>650</xpPoste3>
+		<xpPoste4>250</xpPoste4>
 	</projet>
 	<projet>
 		<typeProjet>1</typeProjet>
-		<name>Die Hard</name>
+		<name>Minecraft movie</name>
 		<imagePath>./photo.jpg</imagePath>
-		<description>Film 2</description>
-		<temps>100</temps>
-		<xpPoste1>25</xpPoste1>
-		<xpPoste2>42</xpPoste2>
-		<xpPoste3>100</xpPoste3>
-		<xpPoste4>100</xpPoste4>
+		<description>Heuclesia vous demander de créer une vidéo de promotion de leur serveur. Vous devez mettre en scène une carte de leur serveur et créer une aventure avec des personnages célèbres du serveur. Vous avez libre de droit sur le scénario de la vidéo.</description>
+		<temps>300</temps>
+		<xpPoste1>450</xpPoste1>
+		<xpPoste2>30</xpPoste2>
+		<xpPoste3>1650</xpPoste3>
+		<xpPoste4>840</xpPoste4>
 	</projet>
 	<projet>
 		<typeProjet>2</typeProjet>
-		<name>Mario bros.</name>
+		<name>IN Troduction</name>
 		<imagePath>./photo.jpg</imagePath>
-		<description>Jeu 2</description>
-		<temps>100</temps>
-		<xpPoste1>25</xpPoste1>
-		<xpPoste2>42</xpPoste2>
-		<xpPoste3>542</xpPoste3>
-		<xpPoste4>425</xpPoste4>
+		<description>Un professeur de l'IUT vous présente votre projet, vous allez devoir créer un serious game pour le recrutement des prochains étudiants, celui-ci doit aussi amuser le joueur en lui donnant toutes les informations possible, en contre partie, des statistiques seront enregistrées sur un serveur pour aider les recruteurs dans leurs choix.</description>
+		<temps>300</temps>
+		<xpPoste1>1100</xpPoste1>
+		<xpPoste2>100</xpPoste2>
+		<xpPoste3>1050</xpPoste3>
+		<xpPoste4>950</xpPoste4>
 	</projet>
 	<projet>
 		<typeProjet>3</typeProjet>
-		<name>Unity</name>
+		<name>Où sont les vaches ?</name>
 		<imagePath>./photo.jpg</imagePath>
-		<description>Soft 2</description>
-		<temps>100</temps>
-		<xpPoste1>25</xpPoste1>
-		<xpPoste2>42</xpPoste2>
-		<xpPoste3>542</xpPoste3>
-		<xpPoste4>425</xpPoste4>
+		<description>Le grenelle de l'environnement du Velay vous demande de créer un logiciel simple d'utilisation pour les agriculteurs, il permet de localisé les bovins en temps réel, de suivre leur alimentations et de répertorier la traite sur le temps.</description>
+		<temps>300</temps>
+		<xpPoste1>1300</xpPoste1>
+		<xpPoste2>1100</xpPoste2>
+		<xpPoste3>750</xpPoste3>
+		<xpPoste4>355</xpPoste4>
 	</projet>
 </projets>
