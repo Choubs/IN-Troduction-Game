@@ -1,0 +1,26 @@
+<formations>
+	<formation>
+		<name>Lire un livre</name>
+		<type>1</type>
+		<nbPoints>20</nbPoints>
+		<tempsRequis>10</tempsRequis>
+	</formation>
+	<formation>
+		<name>Tutoriel</name>
+		<type>2</type>
+		<nbPoints>46</nbPoints>
+		<tempsRequis>17</tempsRequis>
+	</formation>
+	<formation>
+		<name>Cours individuel</name>
+		<type>3</type>
+		<nbPoints>72</nbPoints>
+		<tempsRequis>24</tempsRequis>
+	</formation>
+	<formation>
+		<name>Neurotransmission de la connaissance</name>
+		<type>4</type>
+		<nbPoints>98</nbPoints>
+		<tempsRequis>31</tempsRequis>
+	</formation>
+</formations>
