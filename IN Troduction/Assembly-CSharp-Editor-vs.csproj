@@ -118,10 +118,10 @@
      <None Include="Assets\Jeu de Gestion\Resources\FichiersSources\perso.xml" />
      <None Include="Assets\Jeu de Gestion\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/Choub/Desktop/IN Troduction/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/Choub/Documents/GitHub/IN-Troduction-Game/IN Troduction/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="Assembly-UnityScript">
- <HintPath>C:/Users/Choub/Desktop/IN Troduction/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>C:/Users/Choub/Documents/GitHub/IN-Troduction-Game/IN Troduction/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
