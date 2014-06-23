@@ -1,8 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PC\CCTVPlayerDetection.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\updateCompetences.cs">
     <Files>
-      <File FileName="Assets\Scripts\PC\CCTVPlayerDetection.cs" Line="34" Column="1" />
+      <File FileName="Assets\ColorPoste.cs" Line="20" Column="59" />
+      <File FileName="Assets\Jeu de Gestion\Scripts\Gestion\SelecPersos.cs" Line="1" Column="1" />
+      <File FileName="Assets\Jeu de Gestion\Scripts\Gestion\ClickPerso.cs" Line="1" Column="1" />
+      <File FileName="Assets\Jeu de Gestion\Scripts\Gestion\MainGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\updateCompetences.cs" Line="17" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
