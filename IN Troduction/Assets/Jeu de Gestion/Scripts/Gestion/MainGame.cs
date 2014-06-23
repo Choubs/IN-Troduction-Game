@@ -25,7 +25,7 @@ public class MainGame : MonoBehaviour {
 
 
 	Perso[] TabPersos = new Perso[nbPerso];
-	Perso[] TabPersosJeu = new Perso[nbPersoSelec];
+	public Perso[] TabPersosJeu = new Perso[nbPersoSelec];
 	Projet[] TabProjets = new Projet[nbProjet];
 	Poste[] TabPostes = new Poste[nbPoste];
 	Formation[] TabFormations = new Formation[nbPoste];
@@ -34,7 +34,7 @@ public class MainGame : MonoBehaviour {
 	bool ProjetIsSelected = false;
 	bool PersoIsSelected = false;
 	bool PosteIsSelected = false;
-	bool game = false;
+	public bool game = false;
 
 	int curProject = 0;
 	int deletedPerso = 0;
@@ -104,6 +104,11 @@ public class MainGame : MonoBehaviour {
 	public GameObject recommencer;
 	public GameObject continuer;
 
+	public GameObject quitterVictoire;
+	public GameObject recommencerVictoire;
+
+	public GameObject quitterDefaite;
+	public GameObject recommencerDefaite;
 
 	void Start () {
 		persos.Load();
@@ -142,6 +147,12 @@ public class MainGame : MonoBehaviour {
 		UIEventListener.Get(recommencer).onClick = Recommencer;
 		UIEventListener.Get(continuer).onClick = Continuer;
 
+		UIEventListener.Get(quitterVictoire).onClick = Quit;
+		UIEventListener.Get(quitterDefaite).onClick = Quit;
+
+		UIEventListener.Get(recommencerVictoire).onClick = Recommencer;
+		UIEventListener.Get(recommencerDefaite).onClick = Recommencer;
+
 		updateText();
 
 	}
@@ -151,7 +162,7 @@ public class MainGame : MonoBehaviour {
 	}
 
 	void Recommencer(GameObject go){
-		Application.LoadLevel("JeuDeGestion");
+		Application.LoadLevel(3);
 	}
 
 	void Continuer(GameObject go){
@@ -197,10 +208,12 @@ public class MainGame : MonoBehaviour {
 	void okFormation (GameObject go) {
 		if(currentFormation+1 <= credit && TabPersosJeu[persoFormation].formation != true){
 			TabPersosJeu[persoFormation].formation = true;
-			TabPersosJeu[persoFormation].xp1 += TabFormations[currentFormation].nbPoints;
-			TabPersosJeu[persoFormation].xp2 += TabFormations[currentFormation].nbPoints;
-			TabPersosJeu[persoFormation].xp3 += TabFormations[currentFormation].nbPoints;
-			TabPersosJeu[persoFormation].xp4 += TabFormations[currentFormation].nbPoints;
+			switch(TabPersosJeu[persoFormation].poste){
+			case 1 : TabPersosJeu[persoFormation].xp1 += TabFormations[currentFormation].nbPoints; break;
+			case 2 : TabPersosJeu[persoFormation].xp2 += TabFormations[currentFormation].nbPoints; break;
+			case 3 : TabPersosJeu[persoFormation].xp3 += TabFormations[currentFormation].nbPoints; break;
+			case 4 : TabPersosJeu[persoFormation].xp4 += TabFormations[currentFormation].nbPoints; break;
+			}
 			TabPersosJeu[persoFormation].tempsFormation = Time.time + (float)TabFormations[currentFormation].tempsRequis;
 			credit -= currentFormation+1;
 			clickFormation = false;
@@ -268,6 +281,11 @@ public class MainGame : MonoBehaviour {
 		menu.bar2.text = TabPostes[1].name;
 		menu.bar3.text = TabPostes[2].name;
 		menu.bar4.text = TabPostes[3].name;
+
+		menu.bar1.color = Color.red;
+		menu.bar2.color = Color.yellow;
+		menu.bar3.color = Color.green;
+		menu.bar4.color = new Color32(0,110,238,255);
 	
 	}
 
@@ -401,7 +419,7 @@ public class MainGame : MonoBehaviour {
 
 	void deletePerso(){
 		for( int i=0; i<nbPersoSelec ; i++){
-			if(i>=deletedPerso)
+			if(i >= deletedPerso)
 				TabPersosJeu[i] = TabPersos[i+1];
 			else
 				TabPersosJeu[i] = TabPersos[i];
@@ -574,7 +592,6 @@ public class MainGame : MonoBehaviour {
 		case "Design":	TabPersosJeu[0].poste = 3;	break;
 		case "Ressources 3D":	TabPersosJeu[0].poste = 4;	break;
 		}
-		print (TabPersosJeu[0].poste.ToString());
 	}
 	void OnSelectionChange1 (string val)
 	{
